@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Checking and learning with PJ
+Created a feature branch separate from the main branch
 
 <!---
 ARaj36/ARaj36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
